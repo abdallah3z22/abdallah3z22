@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Abdallah Zeitoun</title>
+  <style>
+    body {
+      background-color: #0f0f0f;
+      color: #00ffe0;
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+    }
+
+    .name-box {
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      border: 3px solid #00ffe0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      font-weight: bold;
+      margin-bottom: 20px;
+      animation: glow 2s infinite alternate;
+    }
+
+    @keyframes glow {
+      from {
+        box-shadow: 0 0 5px #00ffe0;
+      }
+      to {
+        box-shadow: 0 0 20px #00ffe0;
+      }
+    }
+
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 1.1rem;
+      max-width: 500px;
+      padding: 0 20px;
+      opacity: 0;
+      animation: fadeIn 2s ease-in-out forwards;
+      animation-delay: 1.5s;
+    }
+
+    @keyframes fadeIn {
+      to { opacity: 1; }
+    }
+
+    .cursor {
+      display: inline-block;
+      width: 10px;
+      height: 24px;
+      background-color: #00ffe0;
+      animation: blink 1s infinite;
+      margin-left: 5px;
+    }
+
+    @keyframes blink {
+      0%, 50%, 100% { opacity: 1; }
+      25%, 75% { opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="name-box" id="nameBox">A.Z</div>
+
+  <h1 id="greeting">👋 Welcome<span class="cursor"></span></h1>
+  <p id="description"></p>
+
+  <script>
+    const name = "Abdallah Zeitoun";
+    const role = "Web & Flutter Developer";
+    const description = `I'm a passionate ${role} from Egypt 🇪🇬 who loves building cross-platform apps and learning new technologies.`;
+
+    const greetingEl = document.getElementById("greeting");
+    const descriptionEl = document.getElementById("description");
+    const nameBox = document.getElementById("nameBox");
+
+    // بعد ثانية، يظهر الاسم بالكامل بدل A.Z
+    setTimeout(() => {
+      nameBox.textContent = name;
+    }, 1000);
+
+    // بعد ثانية ونص، يظهر الجملة التعريفية
+    setTimeout(() => {
+      greetingEl.innerHTML = `👋 Welcome, I'm <strong>${name}</strong>`;
+      descriptionEl.textContent = description;
+    }, 1500);
+  </script>
+
+</body>
+</html>
