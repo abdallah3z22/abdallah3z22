@@ -37,90 +37,123 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ### ⚡ Skills:
 
+<!-- Styles for the modal popup -->
+<style>
+  /* خلفية المودال */
+  .modal {
+    display: none; /* مخفية افتراضياً */
+    position: fixed;
+    z-index: 1000;
+    padding-top: 60px;
+    left: 0; top: 0;
+    width: 100%; height: 100%;
+    overflow: auto;
+    background-color: rgba(0,0,0,0.7); /* شفافية خلفية */
+  }
+
+  /* محتوى الصورة داخل المودال */
+  .modal-content {
+    margin: auto;
+    display: block;
+    max-width: 80%;
+    max-height: 80%;
+    border-radius: 8px;
+  }
+
+  /* زر الإغلاق */
+  .close {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+
+  /* تأثير عند مرور الماوس */
+  .modal-content:hover {
+    transform: scale(1.05);
+    transition: 0.3s ease;
+  }
+</style>
+
 <!-- Skills Icons Wrapper -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; padding: 20px;">
 
   <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- Flutter -->
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- Dart -->
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- Android Studio -->
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- PHP -->
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- Java -->
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- NetBeans -->
-  <a href="https://netbeans.apache.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
   <!-- Python -->
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
 </div>
+
+<!-- Modal Structure -->
+<div id="myModal" class="modal" onclick="closeModal()">
+  <span class="close" onclick="closeModal(event)">&times;</span>
+  <img class="modal-content" id="modalImg" alt="">
+  <div id="caption" style="color:white; text-align:center; margin-top:10px; font-size: 18px;"></div>
+</div>
+
+<script>
+  function openModal(src, alt) {
+    const modal = document.getElementById("myModal");
+    const modalImg = document.getElementById("modalImg");
+    const caption = document.getElementById("caption");
+
+    modal.style.display = "block";
+    modalImg.src = src;
+    caption.innerText = alt;
+  }
+
+  function closeModal(event) {
+    if(event) event.stopPropagation(); // منع إغلاق عند الضغط على الزر فقط وليس الخلفية
+    document.getElementById("myModal").style.display = "none";
+  }
+</script>
 
 ---
 
