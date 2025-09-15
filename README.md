@@ -113,8 +113,8 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <a href="https://www.python.org/" target="_blank">     
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>   
   </a> 
-
-<a href="http://www.mingw.org/" target="_blank" rel="noopener noreferrer">
+  
+<a href="https://code.visualstudio.com/docs/languages/cpp" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Language Logo" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; object-fit: contain; cursor:pointer;">
 </a>
 
