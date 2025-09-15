@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 About Me
+### ✨ About Me
 
 I'm a software engineer specializing in designing high-performance, scalable mobile, desktop, and web applications — with responsive user interfaces that provide a smooth user experience.
 
