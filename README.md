@@ -38,45 +38,6 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 ### ⚡ Skills:
 
 <!-- Styles for the modal popup -->
-<style>
-  /* خلفية المودال */
-  .modal {
-    display: none; /* مخفية افتراضياً */
-    position: fixed;
-    z-index: 1000;
-    padding-top: 60px;
-    left: 0; top: 0;
-    width: 100%; height: 100%;
-    overflow: auto;
-    background-color: rgba(0,0,0,0.7); /* شفافية خلفية */
-  }
-
-  /* محتوى الصورة داخل المودال */
-  .modal-content {
-    margin: auto;
-    display: block;
-    max-width: 80%;
-    max-height: 80%;
-    border-radius: 8px;
-  }
-
-  /* زر الإغلاق */
-  .close {
-    position: absolute;
-    top: 30px;
-    right: 30px;
-    color: white;
-    font-size: 35px;
-    font-weight: bold;
-    cursor: pointer;
-  }
-
-  /* تأثير عند مرور الماوس */
-  .modal-content:hover {
-    transform: scale(1.05);
-    transition: 0.3s ease;
-  }
-</style>
 
 <!-- Skills Icons Wrapper -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; padding: 20px;">
