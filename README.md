@@ -92,30 +92,6 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 </div>
 
-<!-- Modal Structure -->
-<div id="myModal" class="modal" onclick="closeModal()">
-  <span class="close" onclick="closeModal(event)">&times;</span>
-  <img class="modal-content" id="modalImg" alt="">
-  <div id="caption" style="color:white; text-align:center; margin-top:10px; font-size: 18px;"></div>
-</div>
-
-<script>
-  function openModal(src, alt) {
-    const modal = document.getElementById("myModal");
-    const modalImg = document.getElementById("modalImg");
-    const caption = document.getElementById("caption");
-
-    modal.style.display = "block";
-    modalImg.src = src;
-    caption.innerText = alt;
-  }
-
-  function closeModal(event) {
-    if(event) event.stopPropagation(); // منع إغلاق عند الضغط على الزر فقط وليس الخلفية
-    document.getElementById("myModal").style.display = "none";
-  }
-</script>
-
 ---
 
 ### 📈 GitHub Stats:
