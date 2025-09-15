@@ -2,13 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0F2027&height=200&section=header&text=Abdallah%20Zaitoun&fontSize=40&fontColor=ffffff&animation=fadeIn" />
   <p align="center">
-
-
+    
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=3b82f6&center=true&vCenter=true&width=500&lines=Software+Engineer;Mobile+%26+Desktop+Application+Developer+%7C+Front+End+Developer;Robots" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1500&color=3b82f6&center=true&vCenter=true&width=500&lines=Software+Engineer;Mobile+%26+Desktop+Application+Developer;Front+End+Developer;Robots" alt="Typing SVG" />
 </p>
-
-
 
 
 ### 👋 About Me
