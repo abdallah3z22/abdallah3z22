@@ -127,3 +127,14 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="130px" />
 
 </p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=blue&hide_border=true&hide_title=true" height="250px" width="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=blue&hide_border=true&langs_count=8" height="70px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=blue&hide_border=true" height="130px" />
+</p>
+
