@@ -7,7 +7,7 @@
 ---
 
 ### ✨ About Me
-
+<hr style="width: 50px; border: 1px solid #000; margin-top: 5px; margin-bottom: 20px;">
 I'm a software engineer specializing in designing high-performance, scalable mobile, desktop, and web applications, with responsive user interfaces that provide a smooth user experience.
 
 ---
