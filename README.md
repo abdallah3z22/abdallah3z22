@@ -127,4 +127,8 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="130px" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdallah3z22&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah3z22" />
+</p>
+
 
