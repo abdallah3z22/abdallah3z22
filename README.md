@@ -35,7 +35,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 ---
 
 ## ⚡ Skills:
-<p style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; align="center"">
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; text-align: center;">
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
@@ -115,6 +115,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   </a>
 
 </p>
+</div>
 
 ---
 
