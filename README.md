@@ -124,6 +124,6 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="120px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="130px" />
 
 </p>
