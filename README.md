@@ -13,7 +13,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ---
 
-### 📬 Connect with me:
+### 🔗 Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdallah-zaitoun-133754348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
