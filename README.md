@@ -1,6 +1,6 @@
 <!-- واجهة علوية جميلة + كتابة متحركة بدون مسافة بينهم -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0F2027&height=200&section=header&text=Abdallah%20Zaitoun&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0F2027&height=230&section=header&text=Abdallah%20Zaitoun&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center" style="margin-top: 40px;">
