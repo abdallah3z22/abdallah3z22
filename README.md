@@ -114,8 +114,8 @@ I'm a software engineer specializing in designing high-performance, scalable mob
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
 
-  <a href="https://netbeans.apache.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+<a href="https://netbeans.apache.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
 </a>
 
 
