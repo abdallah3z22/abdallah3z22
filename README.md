@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0F2027&height=200&section=header&text=Abdallah%20Zaitoun&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-<div style="margin-top: -30px;"></div>
+<div style="margin-top: -100px;"></div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Desktop+Application+Developer;Front-End+Developer+%7C+Robots" alt="Typing SVG" />
 </p>
