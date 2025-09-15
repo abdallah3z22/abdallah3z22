@@ -37,7 +37,6 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ### ⚡ Skills:
 
-<!-- Styles for the modal popup and icons wrapper -->
 <style>
   /* الحاوية بتاعت الأيقونات في السنتر */
   .icons-wrapper {
@@ -51,8 +50,8 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
   /* كل أيقونة حجم ثابت والماوس يصبح مؤشر */
   .icons-wrapper img {
-    width: 40px;
-    height: 40px;
+    width: 40px !important;
+    height: 40px !important;
     border: 1px solid #ddd;
     padding: 5px;
     border-radius: 6px;
@@ -91,63 +90,29 @@ I'm a software engineer specializing in designing high-performance, scalable mob
     font-size: 35px;
     font-weight: bold;
     cursor: pointer;
+    user-select: none;
   }
 </style>
 
-<!-- Skills Icons Wrapper -->
 <div class="icons-wrapper">
-
-  <!-- VS Code -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" onclick="openModal(this.src, this.alt)">
-
-  <!-- Flutter -->
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" onclick="openModal(this.src, this.alt)">
-
-  <!-- Dart -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" onclick="openModal(this.src, this.alt)">
-
-  <!-- React Native -->
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" onclick="openModal(this.src, this.alt)">
-
-  <!-- Android Studio -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" onclick="openModal(this.src, this.alt)">
-
-  <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" onclick="openModal(this.src, this.alt)">
-
-  <!-- GitHub -->
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" onclick="openModal(this.src, this.alt)">
-
-  <!-- HTML5 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" onclick="openModal(this.src, this.alt)">
-
-  <!-- CSS3 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" onclick="openModal(this.src, this.alt)">
-
-  <!-- JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" onclick="openModal(this.src, this.alt)">
-
-  <!-- PHP -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" onclick="openModal(this.src, this.alt)">
-
-  <!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" onclick="openModal(this.src, this.alt)">
-
-  <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" onclick="openModal(this.src, this.alt)">
-
-  <!-- NetBeans -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" onclick="openModal(this.src, this.alt)">
-
-  <!-- C -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" onclick="openModal(this.src, this.alt)">
-
-  <!-- Python -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" onclick="openModal(this.src, this.alt)">
-
 </div>
 
-<!-- Modal Structure -->
 <div id="myModal" class="modal" onclick="closeModal()">
   <span class="close" onclick="closeModal(event)">&times;</span>
   <img class="modal-content" id="modalImg" alt="">
