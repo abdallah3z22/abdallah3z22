@@ -3,7 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:0F2027&height=200&section=header&text=Abdallah%20Zaitoun&fontSize=40&fontColor=ffffff&animation=fadeIn" />
   <p align="center">
     <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Software+Engineer;Blockchain+Developer;NestJS+%7C+TypeScript+%7C+Ethereum" alt="Typing SVG" />
+  <div align="center" style="background-color:#1F2937; padding: 10px; border-radius: 8px; display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Desktop+Application+Developer+%7C+Front+End+Developer+%7C+Robots" alt="Typing SVG" />
+</div>
+
 </p>
 
 </p>
