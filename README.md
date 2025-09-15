@@ -70,8 +70,53 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <a href="https://golang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
-  <!-- تابع بنفس الأسلوب لباقي الأدوات -->
-</p>
+  <a href="https://hexo.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://kotlinlang.org" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.nginx.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:
 
 
 
