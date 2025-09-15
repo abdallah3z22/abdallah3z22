@@ -13,14 +13,20 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 ---
 
 ### 🔗 Connect with me:
-
 <p align="center">
   <a href="https://www.linkedin.com/in/abdallah-zaitoun-133754348?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  
   <a href="https://www.instagram.com/alghayib_3z22?igsh=ZWg1Ym8xazFxem52">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
+  
+  
+  <a href="https://www.facebook.com/share/17Kjtj9WeZ/">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  
   <a href="mailto:abdallahzaytoon42@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
