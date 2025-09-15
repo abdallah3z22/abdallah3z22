@@ -34,8 +34,12 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ---
 
-## ⚡ Skills:
-<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; text-align: center;">
+<!-- Skills Section Title -->
+<h2 style="text-align: center;">⚡ Skills:</h2>
+
+<!-- Skills Icons Wrapper -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; padding: 20px;">
+
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
@@ -65,7 +69,8 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
-  
+
+  <!-- GitHub -->
   <a href="https://github.com/" target="_blank">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
@@ -100,6 +105,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
 
+  <!-- NetBeans -->
   <a href="https://netbeans.apache.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
@@ -108,13 +114,12 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
-  
+
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
 
-</p>
 </div>
 
 ---
