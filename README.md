@@ -127,6 +127,11 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="130px" />
 </p>
 
+<a href="https://www.iso-9899.info/" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Language Logo" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; object-fit: contain; cursor:pointer;">
+</a>
+
+
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdallah3z22&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah3z22" />
 </p>
