@@ -114,11 +114,14 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>   
   </a> 
 
-  <a href="https://www.iso-9899.info/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.onlinegdb.com/online_c_compiler" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C Language Logo" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; object-fit: contain; cursor:pointer;">
 </a>
 
+
   </p>
+
+  
 ---
 
 ### 📈 GitHub Stats:
