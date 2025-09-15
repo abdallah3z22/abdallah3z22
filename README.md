@@ -49,10 +49,10 @@ I'm a software engineer specializing in designing high-performance, scalable mob
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
+</a>
+
 
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank">
@@ -104,11 +104,6 @@ I'm a software engineer specializing in designing high-performance, scalable mob
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
 
-  <!-- SQL -->
-  <a href="https://www.sql.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/sql.svg" alt="SQL" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
-
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
@@ -119,12 +114,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
   </a>
 
-  <!-- GUI (Qt as example) -->
-  <a href="https://www.qt.io/" target="_blank" title="GUI (Qt)">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Qt_logo_2016.svg" alt="GUI" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>
-  </a>
 </p>
-
 
 ---
 
