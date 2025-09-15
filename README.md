@@ -37,104 +37,58 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ### ⚡ Skills:
 
-<style>
-  /* الحاوية بتاعت الأيقونات في السنتر */
-  .icons-wrapper {
-    display: flex;
-    justify-content: center; /* سنتر أفقي */
-    align-items: center;    /* سنتر عمودي */
-    gap: 15px;
-    flex-wrap: wrap;
-    padding: 20px;
-  }
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; padding: 20px;">
 
-  /* كل أيقونة حجم ثابت والماوس يصبح مؤشر */
-  .icons-wrapper img {
-    width: 40px !important;
-    height: 40px !important;
-    border: 1px solid #ddd;
-    padding: 5px;
-    border-radius: 6px;
-    cursor: pointer;
-    object-fit: contain;
-  }
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
-  /* خلفية المودال */
-  .modal {
-    display: none; /* مخفية افتراضياً */
-    position: fixed;
-    z-index: 1000;
-    padding-top: 60px;
-    left: 0; top: 0;
-    width: 100%; height: 100%;
-    overflow: auto;
-    background-color: rgba(0,0,0,0.7);
-    text-align: center;
-  }
+  <!-- Flutter -->
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
-  /* محتوى الصورة داخل المودال بحجم موحد */
-  .modal-content {
-    margin: auto;
-    width: 200px;
-    height: 200px;
-    border-radius: 8px;
-    object-fit: contain;
-  }
+  <!-- Dart -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
-  /* زر الإغلاق */
-  .close {
-    position: absolute;
-    top: 30px;
-    right: 30px;
-    color: white;
-    font-size: 35px;
-    font-weight: bold;
-    cursor: pointer;
-    user-select: none;
-  }
-</style>
+  <!-- React Native -->
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
 
-<div class="icons-wrapper">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" onclick="openModal(this.src, this.alt)">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" onclick="openModal(this.src, this.alt)">
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" onclick="openModal(this.src, this.alt)">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" onclick="openModal(this.src, this.alt)">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" onclick="openModal(this.src, this.alt)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" onclick="openModal(this.src, this.alt)">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" onclick="openModal(this.src, this.alt)">
+  <!-- Android Studio -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- Git -->
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- GitHub -->
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- NetBeans -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" alt="NetBeans" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px; cursor:pointer;" onclick="openModal(this.src, this.alt)">
+
 </div>
 
-<div id="myModal" class="modal" onclick="closeModal()">
-  <span class="close" onclick="closeModal(event)">&times;</span>
-  <img class="modal-content" id="modalImg" alt="">
-  <div id="caption" style="color:white; text-align:center; margin-top:10px; font-size: 18px;"></div>
-</div>
-
-<script>
-  function openModal(src, alt) {
-    const modal = document.getElementById("myModal");
-    const modalImg = document.getElementById("modalImg");
-    const caption = document.getElementById("caption");
-
-    modal.style.display = "block";
-    modalImg.src = src;
-    caption.innerText = alt;
-  }
-
-  function closeModal(event) {
-    if(event) event.stopPropagation();
-    document.getElementById("myModal").style.display = "none";
-  }
-</script>
 
 ---
 
