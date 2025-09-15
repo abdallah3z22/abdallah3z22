@@ -31,13 +31,6 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ## ⚡ Skills:
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" />
-</p>
-
 <p style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;">
   <!-- VS Code -->
   <a href="https://code.visualstudio.com/" target="_blank">
