@@ -4,18 +4,7 @@
   <p align="center">
     
 <p align="center">
-  <!-- السطر الأول كبير -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1500&color=3b82f6&center=true&vCenter=true&width=500&lines=Software+Engineer" alt="Typing SVG 1" />
-</p>
-
-<p align="center">
-  <!-- السطر الثاني بحجم أصغر -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1500&color=3b82f6&center=true&vCenter=true&width=600&lines=Mobile+%26+Desktop+Application+Developer" alt="Typing SVG 2" />
-</p>
-
-<p align="center">
-  <!-- السطر التالت بحجم أصغر فيه Front End Developer Robots -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1500&color=3b82f6&center=true&vCenter=true&width=600&lines=Front+End+Developer+Robots" alt="Typing SVG 3" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3b82f6&center=true&vCenter=true&width=600&lines=Software+Engineer;Mobile+%26+Desktop+Application+Developer;Front+End+Developer+Robots" alt="Typing SVG" />
 </p>
 
 
