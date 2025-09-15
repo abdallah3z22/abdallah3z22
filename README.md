@@ -34,8 +34,8 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ---
 
-<!-- Skills Section Title -->
-<h2 style="text-align: center;">⚡ Skills:</h2>
+
+### ⚡ Skills:
 
 <!-- Skills Icons Wrapper -->
 <div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap; padding: 20px;">
