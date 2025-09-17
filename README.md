@@ -119,26 +119,11 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 ---
 
 ### 📈 GitHub Stats:
-<p align="center">
-  <!-- GitHub Stats for fathallah7 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=fathallah7&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stars" width="45%" />
-
-  <!-- GitHub Stats for abdallah3z22 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&cache_bust=123456" height="250px" width="200px" />
-
-  <!-- Most Used Languages for abdallah3z22 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="70px" />
-
-  <p align="center">
-    <!-- Streak Stats for abdallah3z22 -->
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="130px" />
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&cache_bust=123456" height="250px" width="200px" /> 
+  <!-- Most Used Languages - bar chart --> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="70px" /> <p align="center"> 
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="130px" /> 
   </p>
-</p>
-
-
-
-<!-- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdallah3z22&label=Profile%20views&color=0e75b6&style=flat" alt="abdallah3z22" />
-</p>
 
  -->
