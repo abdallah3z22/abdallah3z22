@@ -124,11 +124,12 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&langs_count=8&theme=algolia&layout=compact" alt="Top Languages" width="45%" />
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=عبدالله's GitHub Stats&disable_animations=true&theme=algolia" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=Abdallah%27s%20GitHub%20Stats&disable_animations=true&theme=algolia" alt="GitHub Stats" width="45%" />
 
   <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=abdallah3z22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=abdallah3z22&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </p>
+
 
 
 <!-- <p align="center">
