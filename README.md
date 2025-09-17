@@ -36,8 +36,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 
 ### ⚡ Skills:
 
-<p style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
-  <!-- كل العناصر كما هي -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 15px; flex-wrap: wrap;">
   <!-- VS Code -->   
   <a href="https://code.visualstudio.com/" target="_blank">     
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>   
@@ -115,7 +114,7 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <a href="https://www.python.org/" target="_blank">     
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="border:1px solid #ddd; padding:5px; border-radius:6px;"/>   
   </a> 
-</p>
+</div>
 
   
 ---
@@ -126,5 +125,3 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="70px" /> <p align="center"> 
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="130px" /> 
   </p>
-
- -->
