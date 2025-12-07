@@ -119,28 +119,10 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   
 ---
 
-### 📈 GitHub Stats: 
+### 📊 GitHub Stats: 
 <p align="center"> 
 <img src="https://github-readme-stats.zcy.dev/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" height="220px" width="185px"/>
   <!-- Most Used Languages - bar chart --> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="70px" />  <p align="center"> 
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="120px" /> 
   </p>
-
-  ---
-  ### 📊 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-
-  <!-- Top Languages -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&count_private=true&hide_border=true" alt="Top Languages" />
-
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="120"/>
-</p>
-
