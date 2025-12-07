@@ -130,14 +130,15 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   ---
 ### 📈 GitHub Stats
 
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.zcy.dev/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" width="180" />
+<div align="center">
 
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="180" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="250" />
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" width="180" />
-</p>
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="250" />
 
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=false" width="250" />
+
+</div>
