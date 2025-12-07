@@ -130,15 +130,21 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   ---
 ### 📈 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" width="250" />
+<div style="background:#1a1b26; padding:10px; border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="250" />
+</div>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" width="250" />
+<div style="background:#1a1b26; padding:10px; border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="250" />
+</div>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=false" width="250" />
+<div style="background:#1a1b26; padding:10px; border-radius:10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=true" width="250" />
+</div>
 
 </div>
