@@ -126,25 +126,3 @@ I'm a software engineer specializing in designing high-performance, scalable mob
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="70px" />  <p align="center"> 
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="120px" /> 
   </p>
-
-  ---
-### 📈 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<!-- GitHub Stats - مربع مستطيل -->
-<div style="background: linear-gradient(135deg, #1f1f2e, #2c2c3d); padding:15px; border-radius:15px; box-shadow: 0 5px 15px rgba(0,0,0,0.4);">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="250" />
-</div>
-
-<!-- Most Used Languages - مربع دائري -->
-<div style="background: #11121d; padding:15px; border-radius:50%; box-shadow: 0 5px 15px rgba(0,0,0,0.5); display: flex; align-items: center; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="200" />
-</div>
-
-<!-- Streak Stats - مربع منحني الأطراف -->
-<div style="background:#1c1d29; padding:15px; border-radius:25px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah3z22&theme=tokyonight&hide_border=true" width="250" />
-</div>
-
-</div>
