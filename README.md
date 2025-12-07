@@ -130,22 +130,14 @@ I'm a software engineer specializing in designing high-performance, scalable mob
   ---
 ### 📈 GitHub Stats
 
-<table align="center">
-  <tr>
-    <!-- GitHub Stats -->
-    <td>
-      <img src="https://github-readme-stats.zcy.dev/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" height="220px" />
-    </td>
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.zcy.dev/api?username=abdallah3z22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" width="180" />
 
-    <!-- Most Used Languages -->
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="220px" />
-    </td>
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah3z22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="180" />
 
-    <!-- Streak Stats -->
-    <td>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" height="220px" />
-    </td>
-  </tr>
-</table>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=abdallah3z22&theme=tokyonight&hide_border=true" width="180" />
+</p>
 
